@@ -287,7 +287,8 @@
                 "name": "strawberryperl" ,
                 "args": [ "--version", "5.40.0.1" ]
             },
-            { "name": "imagemagick" }
+            { "name": "imagemagick" },
+            { "name": "azure-functions-core-tools"}
         ]
     },
     "node": {
